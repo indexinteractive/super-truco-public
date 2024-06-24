@@ -23,16 +23,7 @@ If you have an idea of how the game could be better, or an improvement on the cu
 - **Describe the feature**: Explain your idea in detail.
 - **Engage with the community**: Reply to comments and help refine your suggestion.
 
-### Example Feature Suggestion
-
-**Title:** Add a New Color Scheme
-
-**Description:**
-It would be really cool if we had a color scheme for christmas time, with lights and snowflakes in the background. It would make the game feel more festive and fun!
-
-**Benefits:**
-- Players would enjoy a fresh look during the holidays.
-- It would make the game more engaging and fun to play.
+See the [example feature suggestion](docs/example-feature-request.md) as a reference.
 
 ## 🐛 Reporting Bugs
 
@@ -43,28 +34,7 @@ Bugs happen, and we don't like them either. If you find a bug, report it to us h
 - **Screenshots**: If possible, add images or videos.
 - **Device details**: Let us know what device and browser you were using.
 
-### Example Bug Report
-
-**Title:** Error when playing the trump card
-
-**Description:**
-Every time I try to play a trump card, the game freezes and I can't continue the match.
-
-**Steps to reproduce:**
-1. Joined a match.
-2. Received a trump card.
-3. Tried to play the trump card.
-4. The game froze.
-
-**Screenshot:**
-
-```
-<uploaded image>
-```
-
-**Device:**
-- Browser: Chrome
-- Operating System: MacOS
+See the [example bug report](docs/example-bug-request.md) as a reference.
 
 ---
 
