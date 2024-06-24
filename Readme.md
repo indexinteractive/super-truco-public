@@ -23,7 +23,7 @@ If you have an idea of how the game could be better, or an improvement on the cu
 - **Describe the feature**: Explain your idea in detail.
 - **Engage with the community**: Reply to comments and help refine your suggestion.
 
-See the [example feature suggestion](docs/example-feature-request.md) as a reference.
+See the [example feature suggestion](docs/en/example-feature-request.md) as a reference.
 
 ## 🐛 Reporting Bugs
 
@@ -34,7 +34,7 @@ Bugs happen, and we don't like them either. If you find a bug, report it to us h
 - **Screenshots**: If possible, add images or videos.
 - **Device details**: Let us know what device and browser you were using.
 
-See the [example bug report](docs/example-bug-request.md) as a reference.
+See the [example bug report](docs/en/example-bug-report.md) as a reference.
 
 ---
 

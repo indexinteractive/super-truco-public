@@ -23,16 +23,7 @@ Se tiver uma ideia de como melhorar o jogo ou o design atual, gostariamos de sab
 - **Descreva a funcionalidade**: Explique sua ideia em detalhes.
 - **Interaja com a comunidade**: Responda aos comentários e ajude a refinar sua sugestão.
 
-### Exemplo de Sugestão de Nova Funcionalidade
-
-**Título:** Adicionar um Novo Tema de Cores
-
-**Descrição:**
-Seria muito legal se tivéssemos um tema de cores para o Natal, com luzes e flocos de neve no fundo. Isso deixaria o jogo mais festivo e divertido!
-
-**Benefícios:**
-- Os jogadores teriam um visual novo e divertido durante as festas.
-- Tornaria o jogo mais envolvente e agradável de jogar.
+Veja o [exemplo de sugestão de feature](docs/pt-br/exemplo-feature.md) como uma referência.
 
 ## 🐛 Relatar Bugs
 
@@ -43,28 +34,7 @@ Bugs existem, e nós também não gostamos deles. Se você encontrar algum bug, 
 - **Capturas de tela**: Se possível, adicione imagens ou vídeos.
 - **Detalhes do dispositivo**: Nos diga qual dispositivo e navegador você estava usando.
 
-### Exemplo de Relato de Bug
-
-**Título:** Erro ao jogar uma carta manilha
-
-**Descrição:**
-Toda vez que tento jogar uma manilha, o jogo trava e não consigo continuar a partida.
-
-**Passos para reproduzir:**
-1. Entrei em uma partida.
-2. Recebi uma carta manilha.
-3. Tentei jogar a carta manilha.
-4. O jogo travou.
-
-**Captura de tela:**
-
-```
-<upload de imagem>
-```
-
-**Dispositivo:**
-- Navegador: Chrome
-- Sistema Operacional: Windows 11
+Veja o [exemplo de relatório de bug](docs/pt-br/exemplo-bug.md) como uma referência.
 
 ---
 
